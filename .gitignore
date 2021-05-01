@@ -1,0 +1,9 @@
+.vs
+bin
+obj
+node_modules
+conf.json
+*.njsproj
+*.sln
+*.js.map
+*.js
